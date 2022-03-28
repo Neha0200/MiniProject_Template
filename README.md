@@ -10,7 +10,7 @@
 ## Integrated Tools to GitHub
 *  [Codacy](https://www.codacy.com/)
 
-## GitHub Actions
+## Folder Structure
 Folder	Description
 1_Requirements	Documents detailing requirements and research
 
