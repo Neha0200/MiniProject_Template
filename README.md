@@ -12,6 +12,7 @@
 
 ## Folder Structure
 Folder	Description
+
 1_Requirements	Documents detailing requirements and research
 
 2_Architecture	Behavioural and Structural UML Diagrams
