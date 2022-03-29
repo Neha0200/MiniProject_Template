@@ -11,19 +11,14 @@
 *  [Codacy](https://www.codacy.com/)
 
 ## Folder Structure
-Folder	Description
 
-1_Requirements	Documents detailing requirements and research
+![folder structure](https://user-images.githubusercontent.com/101084143/160655000-80bcf475-47f4-4cfb-86f7-cdffc38e65e6.PNG)
 
-2_Architecture	Behavioural and Structural UML Diagrams
-
-3_Implementation	All code and documentation
-
-4_TestPlanAndOutput	Documents with test plans and procedures and Output
-
-5_Report	Documentation of whole project
-
-6_ImagesAndVideos	Code Execution Images and Videos
 
 ## Learning Resources
-* [How to write Makefile](https://github.com/riuandg5/learn-makefile) by Rishu Anand
+
+1.Tutorials point
+
+2.Geeksforgeeks
+
+3.future skills
