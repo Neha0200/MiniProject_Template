@@ -1,15 +1,5 @@
 **Folder Structure**
 
-Folder	Description
 
-1_Requirements	Documents detailing requirements and research
+![folder structure](https://user-images.githubusercontent.com/101084143/160756700-bcae8c4d-c141-4886-96e2-29240d9b98a7.PNG)
 
-2_Architecture	Behavioural and Structural UML Diagrams
-
-3_Implementation	All code and documentation
-
-4_TestPlanAndOutput	Documents with test plans and procedures and Output
-
-5_Report	Documentation of whole project
-
-6_ImagesAndVideos	Code Execution Images and Videos
